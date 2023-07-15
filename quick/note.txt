@@ -1,0 +1,15 @@
+Overviews
+Landings 
+Pages
+ Apps 
+ Docs
+
+
+ ------------
+ color---
+s-blu-#1292ff
+n-blu-#0f2656
+rd- #f15767
+pink   #fdebed 
+green   #ebf9f4
+yellw   #fff7e8
