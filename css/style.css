@@ -1,0 +1,86 @@
+/*common css start*/
+body{
+    margin: 0;
+    font-family: sans-serif ;
+    font-size: 16px;
+    font-weight: 400 ;
+    color: #0f2656;
+}
+/*common css end*/
+/* header start*/
+header{
+    border-bottom: 2px solid #f1f2f5;
+    padding: 15px 0;
+
+}
+.container {
+    margin: 0 auto;
+    width: 90%;
+  /*  border: 1px solid navy;*/
+    overflow: hidden;
+}
+.logo {
+    width:10% ;
+    /*border: 1px solid black;*/
+    float: left;
+}
+.logo img{
+    width: 100%;
+}
+.menu{
+width: 50%;
+/*border: 1px solid black;*/
+float: right;    
+}
+.menu ul{
+    float: right;
+}
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+.menu ul li a{
+    display: inline-block;
+    padding: 0px 25px;
+    color: #0f2656;
+    text-decoration: none;
+    transition: .33s ease;
+}
+
+.menu ul li:last-child a{
+padding-right: 0;
+}
+.menu ul li a:hover{
+    color: #008aff;
+}
+/*header end*/
+/*section start*/
+.container2{
+    margin: auto;
+    width: 50%;
+   /* border: 1px solid black;*/
+    overflow: hidden;
+}
+.b-h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+.b-h1 span{
+    text-align: center;
+    color: #1292ff;
+}
+.b-p{
+    text-align: center;
+}
+.b-img{
+   /* border: 1px solid red;*/
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding-left: 15%;
+}
+.b-img img{
+    width: 100%;
+}
+/*section end*/
